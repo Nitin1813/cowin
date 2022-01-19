@@ -43,7 +43,7 @@
     }
     .center li{
         /* background-color: #0d6efd; */
-        color: white;
+        color: black;
     }
     li{
         width: 250px;
@@ -51,7 +51,7 @@
     }
     .sec{
         background-color: black;
-        color: #fff;
+        color: black;
     }
     @media only screen and (max-width:768px){
         li{
