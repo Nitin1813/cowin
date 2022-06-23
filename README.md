@@ -8,7 +8,6 @@ HTML, CSS, Javascript, API.
 - Get centers details
 - Get doses details
 - Customized date
-- 
 
 ## Features
 
